@@ -1,7 +1,7 @@
 <?php include "session.php"; ?>
 <!DOCTYPE html>
 <html lang="en">
- PPPPP
+  
 <?php include "head.php"; ?>
 
 <body id="page-top">

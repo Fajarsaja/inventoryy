@@ -26,7 +26,7 @@
             </div>
             <div>
                 <input type="submit" value="Log in" />
-                <a href="https://www.hakkoblogs.com" style="text-decoration: none;"> </a>
+                
             </div>
         </form><!-- form -->
         
